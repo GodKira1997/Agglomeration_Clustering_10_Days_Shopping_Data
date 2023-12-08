@@ -1,0 +1,11 @@
+	     ['  Corn', '  Fish', '  Meat', '  Milk', '  Rice', '  Soda', ' Bread', ' Chips', ' Salza', ' Sauce', 'Cereal', 'ChildBby', 'Scented', 'Tortya', 'Vegges', 'YogChs']
+Cluster: 4 | [4.138       5.529     6.592     4.833     6.121     2.033     5.896     7.971     2.108     3.092     6.983     2.767      5.183       7.1       6.6       4.917]
+Cluster: 2 | [4.104       2.53      7.956     9.533      6.53     2.052     8.048     2.178     2.007     2.111     7.922     8.022      5.159      0.993     7.511      5.174]
+Cluster: 0 | [2.97        2.49      4.387     5.         7.17     0.977     0.21      2.17      3.163     2.933     5.913     6.147      0.513       7.393    8.613      8.013]
+Cluster: 5 | [6.997       2.531     7.941     1.941     6.044     7.923     2.549     8.385     5.928     6.013     7.892     2.005      4.979      7.951     2.126      1.015]
+
+
+4: Meat, Rice, Bread, Chips, Cereal, Tortya, Vegges -> Single and Balanced (may be healthy) group
+2: Meat, Milk, Rice, Bread, Cereal, ChildBaby, Scented, Vegges -> Looks like a family group
+0: Rice, ChildBby, Tortya, Vegges, YogChs -> Gluten-free and healthy eaters
+5: Coen, Meat, Rice, Soda -> Lactose-Intolerant and Students Group
